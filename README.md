@@ -6,6 +6,7 @@ A-Level student in Kuala Lumpur (Maths, Further Maths, Physics, Chemistry). I bu
 
 ## Projects
 
+- **[tuition-centre-template](https://github.com/thackerdaksh28-ai/tuition-centre-template)**: free one-page website for tuition centres, with a WhatsApp trial-class form. [Live demo](https://thackerdaksh28-ai.github.io/tuition-centre-template/)
 - **[portfolio](https://github.com/thackerdaksh28-ai/portfolio)**: my site. Live at [dakshthacker.netlify.app](https://dakshthacker.netlify.app)
 
 ## Tools
